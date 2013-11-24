@@ -1,0 +1,14 @@
+\\vmware-host\Shared Folders\Dokument\Uppgift-1\UnitTestTri\bin\Debug\UnitTestTri.dll
+\\vmware-host\Shared Folders\Dokument\Uppgift-1\UnitTestTri\bin\Debug\UnitTestTri.pdb
+\\vmware-host\Shared Folders\Dokument\Uppgift-1\UnitTestTri\bin\Debug\Uppgift-1.exe
+\\vmware-host\Shared Folders\Dokument\Uppgift-1\UnitTestTri\bin\Debug\Uppgift-1.pdb
+\\vmware-host\Shared Folders\Dokument\Uppgift-1\UnitTestTri\obj\Debug\UnitTestTri.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Dokument\Uppgift-1\UnitTestTri\obj\Debug\UnitTestTri.dll
+\\vmware-host\Shared Folders\Dokument\Uppgift-1\UnitTestTri\obj\Debug\UnitTestTri.pdb
+C:\peter\Uppgift-1\UnitTestTri\bin\Debug\UnitTestTri.dll
+C:\peter\Uppgift-1\UnitTestTri\bin\Debug\UnitTestTri.pdb
+C:\peter\Uppgift-1\UnitTestTri\bin\Debug\Uppgift-1.exe
+C:\peter\Uppgift-1\UnitTestTri\bin\Debug\Uppgift-1.pdb
+C:\peter\Uppgift-1\UnitTestTri\obj\Debug\UnitTestTri.csprojResolveAssemblyReference.cache
+C:\peter\Uppgift-1\UnitTestTri\obj\Debug\UnitTestTri.dll
+C:\peter\Uppgift-1\UnitTestTri\obj\Debug\UnitTestTri.pdb

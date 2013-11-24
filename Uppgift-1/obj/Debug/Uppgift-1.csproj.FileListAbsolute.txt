@@ -1,0 +1,12 @@
+\\vmware-host\Shared Folders\Dokument\Uppgift-1\Uppgift-1\bin\Debug\Uppgift-1.exe.config
+\\vmware-host\Shared Folders\Dokument\Uppgift-1\Uppgift-1\bin\Debug\Uppgift-1.exe
+\\vmware-host\Shared Folders\Dokument\Uppgift-1\Uppgift-1\bin\Debug\Uppgift-1.pdb
+\\vmware-host\Shared Folders\Dokument\Uppgift-1\Uppgift-1\obj\Debug\Uppgift-1.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Dokument\Uppgift-1\Uppgift-1\obj\Debug\Uppgift-1.exe
+\\vmware-host\Shared Folders\Dokument\Uppgift-1\Uppgift-1\obj\Debug\Uppgift-1.pdb
+C:\peter\Uppgift-1\Uppgift-1\bin\Debug\Uppgift-1.exe.config
+C:\peter\Uppgift-1\Uppgift-1\obj\Debug\Uppgift-1.exe
+C:\peter\Uppgift-1\Uppgift-1\obj\Debug\Uppgift-1.pdb
+C:\peter\Uppgift-1\Uppgift-1\bin\Debug\Uppgift-1.exe
+C:\peter\Uppgift-1\Uppgift-1\bin\Debug\Uppgift-1.pdb
+C:\peter\Uppgift-1\Uppgift-1\obj\Debug\Uppgift-1.csprojResolveAssemblyReference.cache
